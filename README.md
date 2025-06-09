@@ -3,7 +3,7 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/DocStrenzh/3d-portfolio
+git clone https://github.com/DocStrenzh/portfolio
 cd portfolio
 ```
 
