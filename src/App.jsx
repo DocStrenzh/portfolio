@@ -5,6 +5,7 @@ import ShowcaseSection from "./sections/ShowcaseSection";
 import LogoSection from "./sections/LogoSection.jsx";
 import FeatureCards from "./sections/FeatureCards";
 import Navbar from "./components/NavBar";
+import Testimonials from "./sections/Testimonials.jsx";
 
 const App = () => (
   <>
@@ -15,6 +16,7 @@ const App = () => (
     <FeatureCards />
     <ExperienceSection />
     <TechStack />
+    <Testimonials />
   </>
 );
 
